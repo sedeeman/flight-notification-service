@@ -1,0 +1,27 @@
+{
+  "getAllSuccessResponse": {
+    "code": 200,
+    "status": "OK",
+    "message": "Successfully retrieved list of flights"
+  },
+  "postSuccessResponse": {
+    "code": 201,
+    "status": "Created",
+    "message": "Successfully added a flight"
+  },
+  "noContentResponse": {
+    "code": 204,
+    "status": "No Content",
+    "message": "Flights are not available"
+  },
+  "badRequestResponse": {
+    "code": 400,
+    "status": "Bad Request",
+    "message": "Invalid request"
+  },
+  "internalServerErrorResponse": {
+    "code": 500,
+    "status": "Internal Server Error",
+    "message": "Error Occurred"
+  }
+}
