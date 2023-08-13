@@ -2,6 +2,11 @@
 
 ### Flight Notification Service is a microservice that provides real-time flight status updates to subscribers via email. It uses RabbitMQ for message queuing and Spring Mail to send emails to subscribers.
 
+# High Level Design
+
+![image](https://github.com/sedeeman/flight-notification-service/assets/119731054/c500c971-a4f7-4d96-b121-b26db1ec4b54)
+
+
 ### Getting Started
 To run the Flight Notification Service, you need to have RabbitMQ and Java installed on your system. Follow the steps below to get started:
 
