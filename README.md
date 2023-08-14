@@ -4,7 +4,8 @@
 
 ### High Level Design
 
-![image](https://github.com/sedeeman/flight-notification-service/assets/119731054/c500c971-a4f7-4d96-b121-b26db1ec4b54)
+![image](https://github.com/sedeeman/flight-notification-service/assets/119731054/e5db6386-1aee-4b56-a5b4-b43dab85ad1a)
+
 
 
 ### Getting Started
